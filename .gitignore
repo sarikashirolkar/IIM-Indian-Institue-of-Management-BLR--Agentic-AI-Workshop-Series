@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+miens/
+myenv/
+.venv/
+venv/
+
+# Secrets
+.env
+.env.local
+
+# Streamlit cache
+.streamlit/
